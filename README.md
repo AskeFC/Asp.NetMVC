@@ -24,4 +24,7 @@ Assignments from 6 weeks Asp .Net MVC course developed in C#, Html5, Css3, [jQue
 > **License**
 
 > © Copyright 2014 Aske Færch Christensen (AskeFC.net). Released under the [GPL 2.0 License](https://www.gnu.org/licenses/gpl-2.0.html).
+<br>
+Meaning : you can use this freely and distribute their own projects containing this work along with the complete source (opensource), but if you want to use any of this work in any closed source project you will have to get special permission and license from me.
+<br>
 jQuery is Copyright of the jQuery Foundation and released under MIT License. Visual Studio and .Net Framework is Copyright of Microsoft.
